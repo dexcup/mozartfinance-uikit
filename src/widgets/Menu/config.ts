@@ -34,15 +34,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/mozartfinance",
+        href: "https://github.com/dexcup",
       },
       {
         label: "Docs",
-        href: "https://mozartfinance.gitbook.io/mozart-finance/",
+        href: "https://dexcup.gitbook.io/dexcup/",
       },
       {
         label: "Blog",
-        href: "https://mozart-finance.medium.com/",
+        href: "https://dexcup.gitbook.io/dexcup/",
       },
     ],
   },
@@ -55,26 +55,18 @@ export const socials = [
     items: [
       {
         label: "Annoucements",
-        href: "https://t.me/MozartFinanceAnn",
+        href: "https://t.me/dexcupnews",
       },
       {
         label: "English",
-        href: "https://t.me/MozartFinance",
-      },
-      {
-        label: "Espanol",
-        href: "https://t.me/MozartFinanceEs",
-      },
-      {
-        label: "Japan",
-        href: "https://t.me/MozartFinanceJPN",
-      },
+        href: "https://t.me/dexcup",
+      }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/MozartFinance",
+    href: "https://twitter.com/dex_cup",
   },
 ];
 
