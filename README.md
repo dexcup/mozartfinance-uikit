@@ -6,7 +6,7 @@ Mozart Finance UIkit is a set of React components and hooks used to build pages 
 
 ## Install
 
-`yarn add @mozartfinance/uikit`
+`yarn add @dexcup/uikit`
 
 ## Setup
 
@@ -16,7 +16,7 @@ Before using Mozart Finance UIkit, you need to provide the theme file to styled-
 
 ```
 import { ThemeProvider } from 'styled-components'
-import { light, dark } from '@mozartfinance/uikit'
+import { light, dark } from '@dexcup/uikit'
 ...
 <ThemeProvider theme={isDark}>...</ThemeProvider>
 ```
@@ -26,7 +26,7 @@ import { light, dark } from '@mozartfinance/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@mozartfinance/uikit'
+import { ResetCSS } from '@dexcup/uikit'
 ...
 <ResetCSS />
 ```
