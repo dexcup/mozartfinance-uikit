@@ -52,16 +52,7 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "Annoucements",
-        href: "https://t.me/dexcupnews",
-      },
-      {
-        label: "English",
-        href: "https://t.me/dexcup",
-      }
-    ],
+    href: "https://t.me/DexCup",
   },
   {
     label: "Twitter",
